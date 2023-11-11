@@ -8,3 +8,12 @@ This is just a demo repository in which I am trying out on different functions o
   <li>CART algorithm can be used in both Regression and Classification. It uses the concept of finding entropy.</li>
   <li>Different algorithms give different accuracies, we need to select the algo which gives maximum accuracy.</li>
 </ul>
+
+<table>
+  <th>Regression</th>
+  <th>Classification</th>
+  <tr>
+    <td>Linear Regression</td>
+    <td>Logistic Regression</td>
+  </tr>
+</table>
