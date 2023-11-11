@@ -1,17 +1,26 @@
 <h1> Hi everyone !! </h1><br>
 This is just a demo repository in which I am trying out on different functions of Python libraries used in Machine Learning.<br>
 <hr>
+<p><b>MACHINE LEARNING:</b>
 <ul>
-  <li>When values are continuous we use Regression and when values are categorical we use Classification.</li>
-  <li>Linear Regression is always used in Regression and Logistic Regression is always used in Classification problems</li>
-  <li>KNN algorithm can be used in both Regression and Classification. It uses the concept of Euclidean distance.</li>
-  <li>CART algorithm can be used in both Regression and Classification. It uses the concept of finding entropy.</li>
-  <li>Different algorithms give different accuracies, we need to select the algo which gives maximum accuracy.</li>
+  <li>Supervised Learning:</li>
+  <ul>
+    <li>Regression</li>
+    <li>Classification</li>
+  </ul>
+  <li>Unsupervised Learning:</li>
+  <ul>
+    <li>Clustering</li>
+  </ul>
 </ul>
+</p>
 <hr>
 <table>
-  <th>Regression</th>
-  <th>Classification</th>
+  <th colspan=2>SUPERVISED MACHINE LEARNING</th>
+  <tr>
+    <td><b>Regression</b></td>
+    <td><b>Classification</b></td>
+  </tr>
   <tr>
     <td>Linear Regression</td>
     <td>Logistic Regression</td>
@@ -49,3 +58,10 @@ This is just a demo repository in which I am trying out on different functions o
     <td>Extra trees</td>
   </tr>
 </table>
+<ul>
+  <li>When values are continuous we use Regression and when values are categorical we use Classification.</li>
+  <li>Linear Regression is always used in Regression and Logistic Regression is always used in Classification problems</li>
+  <li>KNN algorithm can be used in both Regression and Classification. It uses the concept of Euclidean distance.</li>
+  <li>CART algorithm can be used in both Regression and Classification. It uses the concept of finding entropy.</li>
+  <li>Different algorithms give different accuracies, we need to select the algo which gives maximum accuracy.</li>
+</ul>
